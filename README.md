@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nodeadlykittens76
+- 👋 Hi, I’m @nodeadlykittens76, also known as Fred.
 - 👀 I’m interested in data, geodata and the wrangling of mentioned data.
 - 🌱 I’m currently learning python and JS.
 - 💞️ I’m looking to collaborate on nothing right now but hopefully my wings will grow.
